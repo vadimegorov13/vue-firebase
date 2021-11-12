@@ -1,5 +1,10 @@
 # vue-firebase
 
+## Requirments
+```
+Node js
+```
+
 ## Project setup
 ```
 yarn install
