@@ -3,13 +3,8 @@ import "firebase/compat/firestore";
 import { ref, onUnmounted } from "vue";
 
 const config = {
-  apiKey: "AIzaSyBriY1FNcqZiMpHTydzPM3o93Wwcohzdos",
-  authDomain: "fir-test-131d9.firebaseapp.com",
-  projectId: "fir-test-131d9",
-  storageBucket: "fir-test-131d9.appspot.com",
-  messagingSenderId: "570322399715",
-  appId: "1:570322399715:web:93a0b7bbc75efaa396b0d6",
-};
+  // config goes here
+}
 
 const firebaseApp = firebase.initializeApp(config);
 
